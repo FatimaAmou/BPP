@@ -13,4 +13,4 @@ print(sumatoria)
 acumulado=0
 for i in elementos:
     acumulado +=1
-print('Sumatoria sin reduce=', acumulado)
+print('Sumatoria sin reduce=', acumulado) 
